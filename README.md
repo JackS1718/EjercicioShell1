@@ -4,7 +4,7 @@ Ejercicio 1:
 
 #!/bin/bash: Indica que el script  ejecuta con Bash.
 
-nombre="José Manuel Cruz Pacheco", edad=24, ciudad="Huelva": Declara tres variables (nombre, edad, ciudad) y les asigna valores.
+nombre="Jackelin Maravi", edad=36, ciudad="Huelva": Declara tres variables (nombre, edad, ciudad) y les asigna valores.
 
 echo "Mi nombre es $nombre tengo $edad años y vivo en $ciudad": Imprime un mensaje que incluye los valores de las variables utilizando la sintaxis $variable.
 
